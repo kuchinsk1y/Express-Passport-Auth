@@ -64,18 +64,20 @@ npm start
 
 ## 📁 Структура проєкту
 
-express-passport-auth/ <br>
-├── app.js <br>
-├── .env <br>
-├── config/ 
-│   └── passport.js <br>
+```bash
+express-passport-auth/
+├── app.js
+├── .env
+├── config/
+│   └── passport.js
 ├── routes/
-│   └── auth.js <br>
+│   └── auth.js
 ├── views/
-│   ├── login.ejs <br>
-│   ├── register.ejs <br>
-│   └── protected.ejs <br>
+│   ├── login.ejs
+│   ├── register.ejs
+│   └── protected.ejs
 └── README.md
+```
 
 ## 🔒 Подальші покращення (опціонально)
 
